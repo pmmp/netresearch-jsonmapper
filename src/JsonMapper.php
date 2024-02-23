@@ -32,7 +32,7 @@ class JsonMapper
      *
      * @var boolean
      */
-    public $bExceptionOnMissingData = false;
+    public $bExceptionOnMissingData = true;
 
     /**
      * If the types of map() parameters shall be checked.
